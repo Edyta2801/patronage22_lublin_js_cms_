@@ -39,7 +39,8 @@
     "eject": "react-scripts eject",
     "lint": "eslint .",
     "lint:fix": "eslint --fix .",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "web": "index.tsx"
   },
   "eslintConfig": {
     "extends": [
