@@ -63,6 +63,7 @@ function AuthForm() {
         <h1>Login</h1>
         <FormControl>
           <FormLabel htmlFor="email">Email address</FormLabel>
+          <p>admin@admin.com</p>
           <Input
             id="email"
             type="email"
@@ -78,6 +79,7 @@ function AuthForm() {
 
         <FormControl>
           <FormLabel htmlFor="password">Password</FormLabel>
+          <p>A12345678</p>
           <Input
             id="password"
             type="password"
